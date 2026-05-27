@@ -1,0 +1,41 @@
+# A safe and common .gitignore file 
+# Secrets
+.env
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+
+# VS Code
+.vscode/
+
+# JetBrains IDEs (IntelliJ, PyCharm, DataGrip, etc.)
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Vim / Emacs
+*.swp
+*.swo
+*~
+\#*\#
+.\#*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Node
+node_modules/
