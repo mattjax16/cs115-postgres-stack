@@ -6,7 +6,7 @@ This repository provides a Docker-based alternative to installing PostgreSQL and
 
 ## Prerequisites: Install Docker
 
-Before anything else, you need Docker Desktop installed on your computer.
+Before anything else, you need Docker Desktop (or just docker standalone) installed on your computer.
 
 1. Go to [https://www.docker.com/products/docker-desktop/](https://www.docker.com/products/docker-desktop/) and download the installer for your operating system (Windows, macOS, or Linux).
 2. Run the installer and follow the default steps.
