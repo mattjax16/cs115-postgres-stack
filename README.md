@@ -98,4 +98,4 @@ To start them again next time:
 docker compose up -d
 ```
 
-Your database and any data you've saved will still be there.
+Your database and any data you've saved will still be there. (in their respectie docker volumes)
